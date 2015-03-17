@@ -1,2 +1,4 @@
-# The desired motor position and velocity 
-float32 des_vel_mps
+# The desired motor position or velocity
+# position is in radians
+# velocity is in radians 
+float32 desired

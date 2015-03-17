@@ -51,6 +51,10 @@ add_message_files(
   Lines.msg
   MotorCommand.msg
   MotorFeedback.msg
+  ServoCommand.msg
+  ServoFeedback.msg
+  DCMotorCommand.msg
+  DCMotorFeedback.msg
 )
 
 ## Generate services in the 'srv' folder
