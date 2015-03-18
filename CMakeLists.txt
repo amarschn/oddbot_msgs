@@ -49,12 +49,8 @@ add_message_files(
   OddbotBootStop.msg
   HerkulexCommand.msg
   Lines.msg
-  MotorCommand.msg
-  MotorFeedback.msg
-  ServoCommand.msg
-  ServoFeedback.msg
-  DCMotorCommand.msg
-  DCMotorFeedback.msg
+  ActuationCommand.msg
+  ActuationFeedback.msg
 )
 
 ## Generate services in the 'srv' folder
