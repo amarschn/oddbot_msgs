@@ -51,6 +51,7 @@ add_message_files(
   Lines.msg
   ActuationCommand.msg
   ActuationFeedback.msg
+  DeadReckon.msg
 )
 
 ## Generate services in the 'srv' folder
